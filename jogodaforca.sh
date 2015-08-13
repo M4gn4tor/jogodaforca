@@ -293,7 +293,7 @@ do
  			tput cup 0 0;
  			export _RESET="\033[40;37;1mPara Sair digite: [Ctrl + E]\033[m"
  			export _EXIT="░░░░░░░░░░░░░░░░░░░░░░░░░░░░░"
- 			export _TITULO="";
+ 			export _TITULO="A palavra era: $_PALAVRA";
 	 		export _FORCA=$_ENFORCA;
 	 		export _FASE="5";
 	 		export _PALAVRA=" ";
