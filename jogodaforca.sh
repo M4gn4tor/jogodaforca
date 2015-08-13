@@ -55,7 +55,7 @@ export _LINES=40
 export _COLS=164
 
 export _TITULO=" DIGITE UMA LETRA "; # variavel de interação com o jogador
-export _URL="http://goo.gl/6t5igQ"
+export _URL="https://raw.githubusercontent.com/terminalrootsh/jogodaforca/master/.palavras.txt"
 export _WORDS=".palavras.txt"
 
 # pega o arquivo se não houver no diretório do jogo
